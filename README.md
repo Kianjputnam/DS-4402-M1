@@ -1,5 +1,21 @@
 # NBA Rookie Sentiment Analysis  
 
+## Software and Platform
+
+### Required Software:  
+- **Python 3.x**  
+- **Jupyter Notebook** (or any Python IDE)  
+
+### Required Packages:  
+
+Ensure you have the following Python libraries installed:  
+
+pip install pandas numpy seaborn matplotlib nltk wordcloud scipy statsmodels
+
+### Platform used
+
+Windows
+
 ## 📂 Repository Contents  
 📂 NBA-Rookie-Sentiment-Analysis
 │── 📂 DATA_folder               # Contains raw and processed datasets
@@ -24,16 +40,6 @@
 │── LICENSE.md                     # Licensing information
 
 
----
+## Reproducing Results
 
-## 🖥️ Software and Platform  
-
-### **Required Software:**  
-- **Python 3.x**  
-- **Jupyter Notebook** (or any Python IDE)  
-
-### **Required Packages:**  
-Ensure you have the following Python libraries installed:  
-```bash
-pip install pandas numpy seaborn matplotlib nltk wordcloud scipy statsmodels
 
