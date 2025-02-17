@@ -18,27 +18,27 @@ Windows
 
 ## 📂 Repository Contents  
 📂 NBA-Rookie-Sentiment-Analysis
-│
-├── 📂 DATA_folder # Contains raw and processed datasets
-│ ├── rookie_data_textblob.csv # Sentiment-analyzed scouting reports
-│ ├── nba_performance_data.csv # Player performance metrics
-│
-├── 📂 NOTEBOOKS # Contains Jupyter Notebooks
-│ ├── data_cleaning.ipynb # Preprocessing and cleaning scripts
-│ ├── sentiment_analysis.ipynb # VADER/TextBlob sentiment analysis
-│ ├── correlation_tests.ipynb # Statistical tests & visualizations
-│
-├── 📂 RESULTS # Contains final outputs
-│ ├── correlation_results.csv # Table of correlation test results
-│ ├── 📂 figures # Folder for graphs and visualizations
-│
-├── 📂 DOCUMENTATION # Project-related documents
-│ ├── project_report.pdf # Full research report
-│ ├── presentation_slides.pptx # Presentation slides
-│
-├── README.md # Overview of the repository
-├── requirements.txt # List of dependencies for easy setup
-├── LICENSE.md # Licensing information
+
+DATA_folder
+  Reference_stats1.xlsx
+  Reference_stats2.xlsx
+  merged_nba_rookie_data.csv
+  merged_nba_stats2.csv
+  rookie_data_textblob.csv
+  rookie_data_vader.csv
+  scouting_reports.csv
+  
+OUTPUT_folder
+
+SCRIPTS_folder
+
+PLANSandREFERENCES_folder
+
+SCRIPTS_folder
+
+LICENSE.md # Licensing information
+
+README.md # Overview of the repository
 
 
 ## Reproducing Results
