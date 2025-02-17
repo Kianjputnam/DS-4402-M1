@@ -18,26 +18,27 @@ Windows
 
 ## 📂 Repository Contents  
 📂 NBA-Rookie-Sentiment-Analysis
-│── 📂 DATA_folder               # Contains raw and processed datasets
-│   ├── rookie_data_textblob.csv  # Sentiment-analyzed scouting reports
-│   ├── nba_performance_data.csv  # Player performance metrics
 │
-│── 📂 NOTEBOOKS                 # Contains Jupyter Notebooks
-│   ├── data_cleaning.ipynb       # Preprocessing and cleaning scripts
-│   ├── sentiment_analysis.ipynb  # VADER/TextBlob sentiment analysis
-│   ├── correlation_tests.ipynb   # Statistical tests & visualizations
+├── 📂 DATA_folder # Contains raw and processed datasets
+│ ├── rookie_data_textblob.csv # Sentiment-analyzed scouting reports
+│ ├── nba_performance_data.csv # Player performance metrics
 │
-│── 📂 RESULTS                   # Contains final outputs
-│   ├── correlation_results.csv   # Table of correlation test results
-│   ├── figures/                  # Folder for graphs and visualizations
+├── 📂 NOTEBOOKS # Contains Jupyter Notebooks
+│ ├── data_cleaning.ipynb # Preprocessing and cleaning scripts
+│ ├── sentiment_analysis.ipynb # VADER/TextBlob sentiment analysis
+│ ├── correlation_tests.ipynb # Statistical tests & visualizations
 │
-│── 📂 DOCUMENTATION              # Project-related documents
-│   ├── project_report.pdf        # Full research report
-│   ├── presentation_slides.pptx  # Presentation slides
+├── 📂 RESULTS # Contains final outputs
+│ ├── correlation_results.csv # Table of correlation test results
+│ ├── 📂 figures # Folder for graphs and visualizations
 │
-│── README.md                     # Overview of the repository
-│── requirements.txt               # List of dependencies for easy setup
-│── LICENSE.md                     # Licensing information
+├── 📂 DOCUMENTATION # Project-related documents
+│ ├── project_report.pdf # Full research report
+│ ├── presentation_slides.pptx # Presentation slides
+│
+├── README.md # Overview of the repository
+├── requirements.txt # List of dependencies for easy setup
+├── LICENSE.md # Licensing information
 
 
 ## Reproducing Results
