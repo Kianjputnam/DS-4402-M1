@@ -30,7 +30,9 @@ Windows
 ## 📂 Repository Contents  
 NBA-Rookie-Sentiment-Analysis
 
-📂 DATA_folder
+### 📂 DATA_folder
+
+  - data_appendix_file.pdf
 
   - Reference_stats1.xlsx
   
@@ -46,7 +48,7 @@ NBA-Rookie-Sentiment-Analysis
   
   - scouting_reports.csv
   
-📂 OUTPUT_folder
+### 📂 OUTPUT_folder
 
   - compound_distribution.png
   
@@ -54,7 +56,7 @@ NBA-Rookie-Sentiment-Analysis
   
   - sentiment_boxplot.png
   
-📂 SCRIPTS_folder
+### 📂 SCRIPTS_folder
  
   - Compiling_stats_code.ipynb
   
@@ -66,7 +68,7 @@ NBA-Rookie-Sentiment-Analysis
 
   - textblob_analysis.ipynb
   
-📂 PLANSandREFERENCES_folder
+### 📂 PLANSandREFERENCES_folder
 
   - Project 1 M1.docx
   
@@ -74,9 +76,9 @@ NBA-Rookie-Sentiment-Analysis
 
   - Project 1 M4.pdf
 
-📊 LICENSE.md # Licensing information
+### 📊 LICENSE.md # Licensing information
 
-📊 README.md # Overview of the repository
+### 📊 README.md # Overview of the repository
 
 
 ## Reproducing Results
