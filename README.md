@@ -3,8 +3,8 @@
 ## Software and Platform
 
 ### Required Software:  
-- **Python 3.x**  
-- **Jupyter Notebook** (or any Python IDE)  
+- Python 3.x 
+- Jupyter Notebook (or any Python IDE)  
 
 ### Required Packages:  
 
@@ -17,9 +17,9 @@ pip install pandas numpy seaborn matplotlib nltk wordcloud scipy statsmodels
 Windows
 
 ## 📂 Repository Contents  
-📂 NBA-Rookie-Sentiment-Analysis
+NBA-Rookie-Sentiment-Analysis
 
-DATA_folder
+📂 DATA_folder
 
   Reference_stats1.xlsx
   
@@ -35,17 +35,39 @@ DATA_folder
   
   scouting_reports.csv
   
-OUTPUT_folder
+📂 OUTPUT_folder
 
-SCRIPTS_folder
+  compound_distribution.png
+  
+  eda.py
+  
+  sentiment_boxplot.png
+  
+📂 SCRIPTS_folder
+ 
+  Compiling_stats_code.ipynb
+  
+  Sentiment_Analysis_Correlations.ipynb
+ 
+  merge.py
+  
+  scraper.py
 
-PLANSandREFERENCES_folder
+  textblob_analysis.ipynb
+  
+📂 PLANSandREFERENCES_folder
 
-SCRIPTS_folder
+  Project 1 M1.docx
+  
+  Project 1 M2 (1).docx
 
-LICENSE.md # Licensing information
+  Project 1 M3.docx
 
-README.md # Overview of the repository
+  Project 1 M4.pdf
+
+📊 LICENSE.md # Licensing information
+
+📊 README.md # Overview of the repository
 
 
 ## Reproducing Results
