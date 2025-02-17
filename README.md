@@ -83,4 +83,10 @@ NBA-Rookie-Sentiment-Analysis
 
 ## Reproducing Results
 
+- Our NBA stats data came from NBA.com and NBAReference.com. They are found in Reference_stats1.xls and Reference_stats2.xls which were merged using Compiling_stats_code.ipynb to form merged_nba_stats2.csv (if reference stats are not working properly due to excel reading error, you can just refer to merged_nba_stats2.csv)
 
+- scraper.py was used to get the scouting reports online and were turned into scouting_reports.csv, which was then compiled into merged_nba_rookie_data.csv
+
+- textblob_analysis.ipynb was performed and compiled to rookie_data_textblob.csv
+
+- Sentiment_Analysis_Correlations.ipynb was performed on rookie_data_textblob.csv and displays our findings
