@@ -72,8 +72,6 @@ NBA-Rookie-Sentiment-Analysis
   
   - Project 1 M2 (1).docx
 
-  - Project 1 M3.docx
-
   - Project 1 M4.pdf
 
 📊 LICENSE.md # Licensing information
@@ -89,4 +87,4 @@ NBA-Rookie-Sentiment-Analysis
 
 - textblob_analysis.ipynb was performed and compiled to rookie_data_textblob.csv
 
-- Sentiment_Analysis_Correlations.ipynb was performed on rookie_data_textblob.csv and displays our findings
+- Sentiment_Analysis_Correlations.ipynb was performed on rookie_data_textblob.csv and displays our findings. This also contains most of the figures shown in our presentation
